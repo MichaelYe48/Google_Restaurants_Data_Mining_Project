@@ -1,4 +1,4 @@
-# Google_Data_Mining_Project
+# Google Restaurants Data MiningProject
 
 authors: *Michael Ye, Darren Yu*
 
